@@ -1,0 +1,24 @@
+{
+  "name": "borrax-html",
+  "version": "1.0.0",
+  "description": "View HTML files inside your Obsidian vault with working links, CSS and scripts.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production"
+  },
+  "keywords": [
+    "obsidian",
+    "obsidian-plugin",
+    "html"
+  ],
+  "author": "dogukansahil",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "esbuild": "^0.20.0",
+    "obsidian": "^1.4.11",
+    "tslib": "^2.6.2",
+    "typescript": "^5.4.0"
+  }
+}
