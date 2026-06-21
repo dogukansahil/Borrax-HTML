@@ -1,0 +1,53 @@
+.borrax-html-container {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+}
+
+.borrax-html-frame {
+  flex: 1 1 auto;
+  width: 100%;
+  height: 100%;
+  border: none;
+  background: #ffffff;
+}
+
+/* <webview> defaults to inline; make it fill the container. */
+.borrax-html-webview {
+  display: inline-flex;
+}
+
+/* "H" badge shown on folders that contain an index.html. */
+.borrax-html-index-badge {
+  margin-left: auto;
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 16px;
+  height: 16px;
+  padding: 0 4px;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--text-on-accent, #fff);
+  background: var(--interactive-accent, #5b6cff);
+  cursor: pointer;
+  opacity: 0.85;
+}
+
+.borrax-html-index-badge:hover {
+  opacity: 1;
+}
+
+/* Settings footer link. */
+.borrax-html-settings-footer {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid var(--background-modifier-border);
+  text-align: center;
+  font-size: var(--font-ui-smaller);
+}

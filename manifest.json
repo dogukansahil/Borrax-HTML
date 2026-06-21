@@ -1,0 +1,10 @@
+{
+  "id": "borrax-html",
+  "name": "Borrax HTML",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "View HTML files inside your vault with working links, CSS and scripts.",
+  "author": "dogukansahil",
+  "authorUrl": "https://github.com/dogukansahil",
+  "isDesktopOnly": false
+}
