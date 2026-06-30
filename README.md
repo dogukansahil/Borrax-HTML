@@ -1,6 +1,6 @@
 # Borrax HTML
 
-[![Release](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/dogukansahil/Borrax-HTML/releases/latest) [![Download](https://img.shields.io/badge/download-releases-brightgreen)](https://github.com/dogukansahil/Borrax-HTML/releases/latest) [![License](https://img.shields.io/badge/license-GPL%20v3-lightgrey)](LICENSE) [![Made with Claude](https://img.shields.io/badge/built%20with-Claude-orange)](https://claude.ai) [![Obsidian](https://img.shields.io/badge/Obsidian-community%20plugin-7c3aed)](https://community.obsidian.md/plugins/borrax-html)
+[![Release](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/dogukansahil/Borrax-HTML/releases/latest) [![Download](https://img.shields.io/badge/download-releases-brightgreen)](https://github.com/dogukansahil/Borrax-HTML/releases/latest) [![GitHub stars](https://img.shields.io/github/stars/dogukansahil/Borrax-HTML?style=social)](https://github.com/dogukansahil/Borrax-HTML/stargazers) [![License](https://img.shields.io/badge/license-GPL%20v3-lightgrey)](LICENSE) [![Made with Claude](https://img.shields.io/badge/built%20with-Claude-orange)](https://claude.ai) [![Obsidian](https://img.shields.io/badge/Obsidian-community%20plugin-7c3aed)](https://community.obsidian.md/plugins/borrax-html)
 
 View `.html` / `.htm` files stored inside your Obsidian vault — with **working links, CSS and scripts**.
 
